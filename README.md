@@ -1,12 +1,17 @@
 # HomeWork5
 
 #include <stdio.h>
+
 #include <math.h>
 
-int main() {
-    // Заданные исходные значения
+int main() 
+
+{
+   
     double x = 0.4 * pow(10, -3);  // 0.4x10^-3
+    
     double y = -0.875;
+   
     double z = -0.475 * pow(10, -3);  // -0.475x10^-3
     
     printf("Исходные значения:\n");
